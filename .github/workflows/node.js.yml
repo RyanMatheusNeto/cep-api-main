@@ -59,8 +59,8 @@ jobs:
 
       - name: Set Git config
         run: |
-          git config --global user.name "Sidney Sousa"
-          git config --global user.email "sidney.sousa@ifms.edu.br"
+          git config --global user.name "RyanMatheusNeto"
+          git config --global user.email "ryan.neto@estudante.ifms.edu.br"
 
 
       - name: Merge to main
