@@ -67,4 +67,9 @@ export class CepController {
 
     res.json({ endereco: cepExistingObject });
   }
+
+  async truncate(req: Request, res: Response) {
+    await CepModel.deleteMany({});
+    res.status(200).send('Tudo foi deletado.');
+  }
 }
