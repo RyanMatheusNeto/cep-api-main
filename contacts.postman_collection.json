@@ -403,7 +403,7 @@
 	"variable": [
 		{
 			"key": "baseURL",
-			"value": "http://localhost:3000",
+			"value": "http://cep-api-main.vercel.app",
 			"type": "string"
 		}
 	]
