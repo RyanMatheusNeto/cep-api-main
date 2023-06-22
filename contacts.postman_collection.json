@@ -403,7 +403,7 @@
 	"variable": [
 		{
 			"key": "baseURL",
-			"value": "http://cep-api-main.vercel.app",
+			"value": "https://cep-api-main.vercel.app",
 			"type": "string"
 		}
 	]
